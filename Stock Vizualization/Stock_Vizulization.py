@@ -4,7 +4,7 @@ from matplotlib.animation import FuncAnimation
 
 # Read and prepare the data
 stocks_df = pd.read_csv(
-    '/Users/tariromusarandega/Library/CloudStorage/OneDrive-St.LawrenceUniversity/FAANG+ Stock Visualization/Stock Vizualization/faang_prices.csv')
+    'faang_prices.csv')
 stocks_df['Date'] = pd.to_datetime(stocks_df['Date'])
 stocks_df = stocks_df.set_index('Date')
 stocks_df = stocks_df.sort_index()
