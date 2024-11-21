@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/a172b1e9-000d-48fc-90f4-d3b7e35ccf3d
 
 
 
-# Overview
+## Overview
 
 This project creates an animated visualization of stock prices for major tech companies, allowing users to see how different tech stocks have performed relative to each other over the past decade. The animation shows real-time price movements and rankings, making it easy to identify trends and patterns in tech stock performance.
   
